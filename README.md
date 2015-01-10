@@ -1,7 +1,8 @@
 [zachary.geschwendt.com](http://zachary.geschwendt.com)
 ================================================================================
 
-some description here ...
+[![Dependency Status](https://david-dm.org/spherical-cow/spherical-cow.github.io.svg)](https://david-dm.org/spherical-cow/spherical-cow.github.io)
+[![devDependency Status](https://david-dm.org/spherical-cow/spherical-cow.github.io/dev-status.svg)](https://david-dm.org/spherical-cow/spherical-cow.github.io#info=devDependencies)
 
 Development Setup
 --------------------------------------------------------------------------------
