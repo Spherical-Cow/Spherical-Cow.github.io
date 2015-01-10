@@ -1,0 +1,32 @@
+{
+  "name": "spherical-cow.github.io",
+  "version": "1.0.0",
+  "description": "description here",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^1.9.0",
+    "gulp": "^3.8.10",
+    "gulp-load-plugins": "^0.8.0",
+    "gulp-sass": "^1.2.4",
+    "gulp-util": "^3.0.2",
+    "plato": "^1.3.0"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spherical-cow/spherical-cow.github.io.git"
+  },
+  "keywords": [
+    "keywords",
+    "here"
+  ],
+  "author": "Zachary D Geschwendt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spherical-cow/spherical-cow.github.io/issues"
+  },
+  "homepage": "https://github.com/spherical-cow/spherical-cow.github.io"
+}

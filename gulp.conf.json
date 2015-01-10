@@ -1,0 +1,15 @@
+{
+  "html": [
+    "index.html",
+    "root/**/*.html"
+  ],
+
+  "js": [
+    "root/**/.js"
+  ],
+
+  "sass": [
+    "root/**/*.sass",
+    "root/**/*.scss"
+  ]
+}
