@@ -31,6 +31,8 @@
               console.log('\tD: ' + d);
               console.log('\tE: ' + e);
               console.log('\n\n\n')
+              
+              solution++;
             }
           }
         }
