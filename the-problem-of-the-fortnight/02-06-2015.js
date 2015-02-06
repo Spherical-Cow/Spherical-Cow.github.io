@@ -19,8 +19,8 @@
               c != d &&
               c != e &&
               d != e &&
-              (a+b+c) == 19 &&
-              (a+d+e) == 19
+              (a + b + c) == 19 &&
+              (a + d + e) == 19
             ) {
               console.log('# -----------------------');
               console.log('# Solution ' + solution   );
