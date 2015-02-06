@@ -1,7 +1,7 @@
 (function(){
   'use strict';
   
-  var solution = 1;
+  var solution = 0;
 
   for (var a = 3 ; a < 9; a++ ){
     for (var b = 3 ; b < 9 ; b++ ){
@@ -22,6 +22,7 @@
               (a + b + c) === 19 &&
               (a + d + e) === 19
             ) {
+              solution++;
               console.log('# -----------------------');
               console.log('# Solution ' + solution   );
               console.log('# -----------------------');
@@ -31,8 +32,6 @@
               console.log('\tD: ' + d);
               console.log('\tE: ' + e);
               console.log('\n\n\n')
-              
-              solution++;
             }
           }
         }
