@@ -1,5 +1,6 @@
 (function(){
-
+  'use strict';
+  
   var solution = 1;
 
   for (var a = 3 ; a < 9; a++ ){
